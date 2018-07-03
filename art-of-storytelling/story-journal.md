@@ -45,3 +45,23 @@ Part B:
 6. What if a smart but struggling college dropout starts getting top-secret text messages from world leaders?
 
 ## Activity 1.4
+Part A:
+For stories mentioned above, identify: main characters, character you connect with, worlds
+1. Samurai and villagers, the funny brash non-samurai, in one town
+2. the prince + family + butler, the star but esp interactions with preppy cousin, in one fancy house
+3. ali'i + traveling companions, hero but specifically in moments of connecting with past, an island + surrounding ocean but other embedded mythic worlds
+
+Part B:
+Mix up the characters and worlds. What happens?
+1. An ali'i and her traveling companions try to protect a small village, venturing out for help from the gods
+2. Wandering samurai end up living in a fancy West Coast house
+3. the fresh prince got on the wrong one-way flight, ends up on a dying island and has to help
+The results are mostly comical, with interesting conflicts apparent, except the first. It's more serious and may already be an anime.
+
+Part C:
+Imagine a character and world from a favorite what-if from the answers to 1.3.
+The history-starts-going-backwards story calls for a nerdy archivist who's spent life arguing for digital preservation. She's suddenly thrust into a situation she slowly realizes calls for her unique skills. The character's world feels like a small city, small enough to score a job as the familiar face in a local library but big enough to be forgettable. Scenes establish this is happening around the globe.
+
+Part D:
+What would life be like in the world from part C?
+I think it would feel dull and mundane at first, and for everyone living it day to day. For the character (or characters?) who realize what's going on, it feels like a revelation, maybe followed by a dose of futility.

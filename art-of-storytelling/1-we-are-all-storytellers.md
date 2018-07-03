@@ -57,13 +57,36 @@
 - (see my Story Journal)
 
 ## World & character
-- 
+- What-ifs connect to "world" and "character"
+- worlds: literal vs figurative
+- characters: individuals on journey through story
+- examples of worlds and characters from movies
+	- worlds promote character's struggle
+	- worlds sometimes take a back seat to characters
+	- different characters experience the same world differently
+	- "character is king"
+	- but some like to work on the world first then find a character fit
+- story emerges from world + character
 
 ## Activity 4
-- 
+- Find the world and character from previous favorites you gave
+- (see my Story Journal)
 
 ## Advice
-- 
+- think of yourself as a storyteller!
+- storytelling is a challenge, so here's some advice:
+	- errors are part of the search
+	- get rid of erasers (or just use them to draw)
+	- cultivate the emotion that drew you to that idea
+	- get ideas out of your head and make it so others can connect to them
+		- test ways to get viewers invested in the character just like you are
+	- look back and see you're making progress
+		- people who love this don't want to stop practicing
+- we'll start digging into characters
 
 ### Glossary
-- 
+- a _character_ is a subject/individual followed throughout the story's journey
+- a _perspective_ is someone's point of view (how they see the _world_)
+- a _protagonist_ is a main _character_ that is the focus of the story's journey
+- a _story_ is a sequence of events unfolding over time
+- a _world_ is an environment or ruleset in which the story happens
