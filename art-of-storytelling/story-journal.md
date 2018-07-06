@@ -65,3 +65,42 @@ The history-starts-going-backwards story calls for a nerdy archivist who's spent
 Part D:
 What would life be like in the world from part C?
 I think it would feel dull and mundane at first, and for everyone living it day to day. For the character (or characters?) who realize what's going on, it feels like a revelation, maybe followed by a dose of futility.
+
+## Activity 1.5: Elevator Test
+Step 1: Character from your favorite films
+The Fresh Prince would not notice it at first, then look around, fake playing it cool. (I'm aright, 's aright.) Depending who's trapped with him, he starts escalating and making the situation worse. Then at some point he totally freaks out and lets out his signature scream. Once he's free, he totally plays it off like he was a strong survivor and whoever was in there with him actually flipped out.
+
+Step 2: Character you are creating
+The archivist gets quiet. Not out of fear. She's industrious. She looks around to collect evidence of what's going on. Other people are getting nervous, but she's alert. She tells a couple sarcastic jokes to lighten the mood, but this actually aggravates one of the fearful members in the party. The situation gets really tense, but by the end, she's found a way out.
+
+## Activity 1.6: Internal vs External
+Part A: main characters
+1. funny prince
+2. girl ali'i
+3. smart high school student
+
+Part B: external features
+1. bright clothes, wide range of frequency in voice, hi-top fade, big smile
+2. long hair, active hands, wide eyes, comes with a companion
+3. sharp eyes, hunched over desk, pen, friendly chatter, long pauses
+
+Part C: internal features
+1. funny, silly, heartwarming, charming, accepting, not quite fitting in
+2. curious, adventurous, determined, loyal, conflicted
+3. intelligent, logical, one step ahead, dismissive, certain, superior
+
+Part D: features of someone you know
+external: cuddly short fur, beady eyes, beanbag body, lost nose, side hole
+internal: anger at humanity, desire to consume, strong sense of justice, tribalism
+
+Part E: one of your characters you're developing
+external:
+- human
+- wearing kind of plain antique clothes, shades of dust and sepia
+- moves cautiously but deliberately
+- first thing you'd notice would be the backpack and glasses
+internal:
+- likes trying unfamiliar cuisines, new technology for function not form, close friends, cats
+- fears clocks, own past, mean people getting the upper hand
+- emotion most often felt is a combination of joy + disgust
+- if trapped in an elevator, assessing, problem solving and snarky comments would ensue
