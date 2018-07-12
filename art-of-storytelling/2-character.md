@@ -10,7 +10,7 @@
 - other exercises for detecting how audience would care and share characters' emotions
 
 ## Warm up activity
-- (Check out my Story Journal 1.5)
+- (Check out my Story Journal 2.0)
 - basically, putting characters through the Elevator Test pushes them to extreme reactions
 
 ## Internal vs external features
@@ -39,16 +39,35 @@
 
 ## Activity 1
 - Internal vs external features of characters from those 3 favorite films
-- (Story Journal 1.6)
+- (Story Journal 2.1)
 
 ## Wants vs needs
-- 
+- ignore external features for now
+- what's in a character's mind?
+	- ask: what does _this_ character _want_?
+- story tie-ins
+	- if you don't know what they want, where can they go? what can they do?
+	- thinking of favorite characters, what do they want to do?
+	- the character is compelled to do this every moment of every day
+- character does things because _wants_ drive _actions_
+- learning along the way: what they want may require sharing or recognizing others
+- contrast these with what character _needs_
+	- harder to admit
+	- things character doesn't want to do
+	- good relationships
+- conflicts between wants and needs
+	- create well-rounded characters
+	- thrust in situation that conflicts with clear goals
+	- thing you value vs what you need to care for right now
+ 	- in that monsters movie it's progressing in career vs caring for kid
+- want drives character but need is the heart people remember
 
 ## Activity 2
-- 
+- understand the wants and needs of yourself, your favorite characters and new characters
+- (Story Journal 2.2)
 
 ## Obstacles
-- 
+-
 
 ## Activity 3
-- 
+-

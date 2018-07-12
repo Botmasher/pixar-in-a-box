@@ -66,14 +66,14 @@ Part D:
 What would life be like in the world from part C?
 I think it would feel dull and mundane at first, and for everyone living it day to day. For the character (or characters?) who realize what's going on, it feels like a revelation, maybe followed by a dose of futility.
 
-## Activity 1.5: Elevator Test
+## Activity 2.0: Elevator Test
 Step 1: Character from your favorite films
 The Fresh Prince would not notice it at first, then look around, fake playing it cool. (I'm aright, 's aright.) Depending who's trapped with him, he starts escalating and making the situation worse. Then at some point he totally freaks out and lets out his signature scream. Once he's free, he totally plays it off like he was a strong survivor and whoever was in there with him actually flipped out.
 
 Step 2: Character you are creating
 The archivist gets quiet. Not out of fear. She's industrious. She looks around to collect evidence of what's going on. Other people are getting nervous, but she's alert. She tells a couple sarcastic jokes to lighten the mood, but this actually aggravates one of the fearful members in the party. The situation gets really tense, but by the end, she's found a way out.
 
-## Activity 1.6: Internal vs External
+## Activity 2.1: Internal vs External
 Part A: main characters
 1. funny prince
 2. girl ali'i
@@ -104,3 +104,19 @@ internal:
 - fears clocks, own past, mean people getting the upper hand
 - emotion most often felt is a combination of joy + disgust
 - if trapped in an elevator, assessing, problem solving and snarky comments would ensue
+
+## Activity 2.2: Wants vs Needs
+Part A: wants and needs of your favorite characters
+1. wants: to be popular, liked, funny and a star, needs: to fit in and mature
+2. wants: to explore, needs: to care for people
+3. wants: to control people, ? needs: some amount of validation, some sense of accomplishment
+
+Part B: your wants and needs
+- I'll have to come back to this but here's a first sketch...
+- wants: uncover and explore adventurous problems, needs: companionship and support, to eat
+
+Part C: wants and needs of a character you're developing
+- I'll also have to revisit this but I'll throw a couple out
+- what they want the most: to make the world realize it needs to save precious data from falling into decay
+- what they want to become: a top name recognized in their field
+- what do they need to succeed: help from other people (all oblivious to what's going on)
