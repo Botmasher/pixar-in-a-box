@@ -67,7 +67,51 @@
 - (Story Journal 2.2)
 
 ## Obstacles
--
+- now our characters are motivated to act, but what stands in their way?
+- obstacles can be external (person) or internal (fear)
+	- prevents them from getting what they want
+- storytelling: what is the _conflict_?
+	- put characters in a tree and throw rocks at them, making life a little harder
+	- fear of the ocean
+	- making character break out of comfort zone
+- utility: make character realize what they need to accomplish
+	- fear can be immediate and make character confront scenario
+- fun ones seem like car chases and villains
+	- but how is this reflected inside characters?
+	- how does that show shortcomings?
+- how does character respond to obstacles?
+	- what choices do they make?
 
 ## Activity 3
+- figure out how characters face obstacles
+- (Story Journal 2.3)
+
+## Character Arc
+- characters make choices in response to obstacles
+- characters develop as they face obstacles
+- this is a _character arc_
+- character-obstacle-goal
+	- obstacles make them who they are
+	- character starts basic
+	- ending character is better
+	- but character doesn't get there without pressure
+- character is a flat line without obstacles
+- _climax_ is the hardest obstacle
+- stories have transformation (either we watch world or character change)
+	- this is compelling to watch
+	- character transforms
+	- _or_ character changes minimally but changes the world
+- authenticity: characters need to work for it
+	- often realizing they're wrong or incomplete on their own
+
+## Activity 4
+- identify character arcs for specific characters
+- what does a character _want_ at the beginning but _need_ at the end?
+- (Story Journal 2.4)
+
+## Stakes
 -
+
+## Activity 5
+-
+- (Story Journal 2.5)

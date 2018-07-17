@@ -120,3 +120,34 @@ Part C: wants and needs of a character you're developing
 - what they want the most: to make the world realize it needs to save precious data from falling into decay
 - what they want to become: a top name recognized in their field
 - what do they need to succeed: help from other people (all oblivious to what's going on)
+
+## Activity 2.3: Obstacles
+Part A: back to the three favorites
+- obstacle: social restrictions of a buttoned-up, upper-crust society
+- obstacle: can't sail
+- obstacle: bright detective making smart guesses at causes of bizarre effects
+
+Part B: in your own life
+- obstacle: ear pain when flying
+- prevented: travel, language immersion, opportunity for growth in at least one job
+
+Part C: character you're developing
+- obstacle 1: own fear of being judged
+- obstacle 2: ignorance of the people around them
+- obstacle 3: missing critical piece of evidence for figuring out or convincing someone else
+
+## Activity 2.4: Character Arc
+Part A: what three favorites want at start but need at the end
+1. wanted: to goof off, finds out that needs: family and maturity
+2. wanted: to sail away, finds out that needs: community, land, tradition
+3. wanted: to rid the world of injustice, finds out that needs: to win the game of wits
+
+Part B: your own changes
+- wanted: to consume experiences of the world, finds out that needs: to connect with people and create worthwhile things that let me do that
+
+Part C: character you're developing
+- wants at the beginning: to have the best career possible in field
+- needs at the end: the help and knowledge of people they'd never have cared about
+
+## Activity 2.5
+-
