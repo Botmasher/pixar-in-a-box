@@ -149,5 +149,16 @@ Part C: character you're developing
 - wants at the beginning: to have the best career possible in field
 - needs at the end: the help and knowledge of people they'd never have cared about
 
-## Activity 2.5
--
+## Activity 2.5: Stakes
+Part A: main characters from three favorites
+- choice: stay cool or grow up, stakes: own future, type: internal
+- choice: stay or leave, stakes: save island and people, type: external (+ philosophical?)
+- choice: cooperate or hide, stakes: getting caught, type: philosophical
+
+Part B: tough one in your life
+- choice: stay in conventional job vs pursue building interests, stakes: livelihood, type: external
+
+Part C: stakes for obstacle identified for the character you're developing
+- choice: keep quiet about what's going on and use for own progress vs help solve problems
+- stakes: fixing history, being found/pushed out, losing archives
+- type: external with a parallel internal struggle

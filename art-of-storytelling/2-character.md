@@ -110,8 +110,58 @@
 - (Story Journal 2.4)
 
 ## Stakes
--
+- after obstacles, choices made and arc followed... consider risks/rewards
+- one question: _why do we care?_
+	- what are the stakes if characters fail?
+	- higher stakes create more tension
+	- tension grips audience and translates to more enjoyment
+- a trajectory, with stakes raising as story progresses
+	- bigger: life and death
+	- smaller: something meaningful to character
+- example: nerd in high school talent show, means a lot to them
+- types of stakes
+	- external: what's happening in the world
+		- character lost
+		- character chased
+		- physical changes to world
+	- internal: what's going on in the character
+		- character personally looses or gains something
+		- attention from other characters, relationships, sense of self
+	- philosophical: what's impacting the world's underlying values
+		- how do the world's values change or not?
+		- ideas and concepts: good vs evil
+		- fantasy worlds or large battles
+- distinguishing stakes is tricky and takes practice
 
 ## Activity 5
--
+- spotting stakes in your favorites
 - (Story Journal 2.5)
+
+## Advice
+- creating a new story
+- where would I go when taking a vacation?
+	- doesn't need a conflict right away, just a setting
+	- imagine away
+- what would I want to watch?
+	- make it
+	- other work can be inspirational but be personal
+- learn from fellow artists
+	- are some people in the room not laughing?
+- stories build up on their own
+	- keep retelling as you build
+	- listen how people respond and take notes
+- don't worry what people want from you
+	- express yourself
+	- what made you laugh?
+	- what are you exposed to? what influences you?
+- being yourself is important
+- pay attention to failures and things not working
+	- you are a storyteler, so keep trying to tell stories
+
+## Glossary
+- revisit the terms we dealt with in this lesson
+- external vs internal features
+- wants vs needs
+- obstacles
+- character arcs
+- external, internal, philosophical stakes
