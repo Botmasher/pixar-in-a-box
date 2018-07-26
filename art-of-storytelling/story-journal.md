@@ -162,3 +162,47 @@ Part C: stakes for obstacle identified for the character you're developing
 - choice: keep quiet about what's going on and use for own progress vs help solve problems
 - stakes: fixing history, being found/pushed out, losing archives
 - type: external with a parallel internal struggle
+
+## Activity 3.1: Story Spines
+Part A: beats for structure of three favorites
+- there was a cool but skinny funny guy
+- grew up in an East Coast city
+- got in a fight
+- was sent to move with aunt and uncle
+- struggles to fit in
+- cracks jokes and avoids serious stuff
+- gets into more trouble
+- learns he needs to face life changes
+- grows to on family, friends, humor, and own maturity
+
+- girl on island, longs for sea, crowned princess to rule island, island resources go bad, have to leave to fight monster restore it, meets traveling companion, goes adventuring on the seas, finds out monster is island, restores island
+
+- teen smart student, teen finds notebook, writes names, written names kill people, decides to rid world of injustice, detective gets onto him, teen is constantly outsmarting, ever higher tension cat-mouse logic games, they finally catch him, world is normal but uneasy
+
+Part B: story spine game with a friend
+- Once upon a time... there was a clean-shaven guy
+- Every day... he got up and danced
+- Until one day... he broke his tailbone
+- Because of that... he grew sad he couldn't dance
+- Because of that... he sought out the fabled magical elixir of the dance
+- Because of that... he found out that it was a mirage
+- Until finally... he learned to dance on his own a new dance
+- And ever since then... people have danced the broken butt dance
+
+Part C: story spine for your own movie
+- Once upon a time...
+	- ... there was an archivist who worked buried in the back of a library
+- Every day...
+	- ... she would collect data and work hard trying to catalog digital knowledge
+- Until one day...
+	- ... time moved backwards
+- Because of that...
+	- ... she started to notice events weren't happening in the right way
+- Because of that...
+	- ... she went on a hunt to figure out why
+- Because of that...
+	- ... she learned to lean on others and her own skills to undo terrible events
+- Until finally...
+	- ... she had to choose between righting past wrongs and letting history go forward
+- And ever since then...
+	- ... she's been more resigned to history, but stronger and more vigilant in her heroism
