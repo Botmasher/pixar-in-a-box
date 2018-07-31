@@ -206,3 +206,18 @@ Part C: story spine for your own movie
 	- ... she had to choose between righting past wrongs and letting history go forward
 - And ever since then...
 	- ... she's been more resigned to history, but stronger and more vigilant in her heroism
+
+## Activity 3.2: Theme
+Part A: three favorites
+- don't lose yourself but don't avoid growing up
+- listen to who you are and heed the call back to where you came from to do right by your people
+- power over death goes to your head no matter how smart and just you think you are
+
+Part B: your own life
+- learned to care about making and contributing rather than taking and earning
+
+Part C: story you're developing
+- needs of main character: help from and learning how to lean on people around
+- moral: there's no easy fix to history but our best shot is getting outside of our own limitations/demands/expectations, working together and changing minds
+- reread the story spine with this moral
+	- it works but something is off because the moral doesn't come through on some beats

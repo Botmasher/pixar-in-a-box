@@ -49,3 +49,23 @@
 ## Activity 1
 - identify beats and build story spines
 - (check out Story Journal 3.1)
+
+## Theme
+- connect events in story
+- ask: _what are you trying to say?_
+  - moral of the story
+- add to the end of the story spine: "and the moral of the story is..."
+- beats coordinate to make this larger point
+- why are people telling each other your story?
+- deeper points: family, identity, reason for journey
+  - know the protagonist's goal from the very start
+  - conflict between what protagonist wants vs needs
+  - figuring out protagonist's need is the theme
+- starting with a theme isn't essential but becomes so before finishing
+  - sometimes it's discovered in the process of shaping the story
+  - but by the end of storytelling you need to know what you're saying
+  - moral -> focus on what character needs
+
+## Activity 2
+- identify themes of some of your favorites and your own stories
+- (see Story Journal 3.2)
