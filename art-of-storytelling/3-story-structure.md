@@ -69,3 +69,33 @@
 ## Activity 2
 - identify themes of some of your favorites and your own stories
 - (see Story Journal 3.2)
+
+## Act 1
+- you've got beats, now let's separate the structure into acts
+- most commonly 3-act structure
+- setup for the rest of the story
+- get us invested in what will follow
+- Act 1:
+  - once upon a time, we meet protagonist
+  - every day, story setting
+  - until one day, often called the _inciting incident_
+  - also introduce the antagonist
+    - a force, very often a villain
+    - can be anything that stands in the way (like the ocean)
+- essentially you're trying to place the character in the world
+  - learn enough about the world to like the character
+  - understand how the character works in the world
+- the inciting incident
+  - can introduce a conflict motivating a journey
+  - at the end of the first act in most cases
+  - it "pulls the rug out from under" status quo
+  - catapults the protagonist forward, since protagonist now has a goal
+- audience should care about and root for main character to solve problem
+
+## Activity 3
+- First Act identification
+- (see Story Journal 3.3)
+
+## Act 2
+- Act 2:
+  -

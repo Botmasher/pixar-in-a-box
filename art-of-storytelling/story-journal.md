@@ -221,3 +221,45 @@ Part C: story you're developing
 - moral: there's no easy fix to history but our best shot is getting outside of our own limitations/demands/expectations, working together and changing minds
 - reread the story spine with this moral
 	- it works but something is off because the moral doesn't come through on some beats
+
+## Activity 3.3: Act 1
+Part A: three favorites
+- choice one
+	- main characters: the "prince" and his move-in family
+	- where and when: in a mansion, present day (but pinnable to the 90s)
+	- how we learn the type: the initial song indicates the conflict and goofiness
+	- inciting incident: overall it's the fight+move, each episode it's a different way the protagonist asserts himself against his environment
+	- antagonist: aunt and uncle, representing a grown-up, stuffy, wealthy world
+- choice two
+	- main characters: the ali'i who would be an open ocean navigator
+	- where and when: once upon a time in a tropical Pacific island
+	- how we learn the type: through interactions with father vs especially grandmother
+	- inciting incident: first the island is rotting and then grandmother passes
+	- antagonist: the fire goddess, the disease draining life from islands
+- choice three
+	- main characters: a high school student and a brilliant underground detective
+	- where and when: a modern urban Japan, school, home, streets, police station
+	- how we learn the type: when the student actually writes a name in the notebook and sees the result
+	- inciting incident: seeing the results of writing a name and realizing how this could be used
+	- antagonist: the two protagonists are antagonists for each other; death and injustice
+
+Part B: your own film
+- Flesh out the first three beats of the story spine with 3-4 sentences each
+- Once upon a time there was an archivist who worked buried in the back of a library
+	- we meet the protagonist, learning she's academic, isolated, buried in work
+	- we meet the setting; it's not a typical library, but big and museum-like
+	- we get a glimpse of the world; it's normal and cosmopolitan outside of that
+- Every day she would collect data and work hard trying to catalog digital knowledge
+	- getting a contrast between this internal world and external world
+	- also between an observant protagonist and the unaware but ever-functioning external world
+	- she's also doing it habitually, repetitively, systemically... not stumbled into
+- Until one day time moved backwards
+	- our inciting incident is some realization of time traveling backwards
+	- causes are following effects, like a "bless you" before a sneeze
+	- the antagonist is the march of history, but instantiated in someone who knows about it and is using it for personal gain
+
+- the antagonist turns out is doing the same thing, but knows it's erasing history
+- she realizes this and now
+	- with everything she can do with everyone she's teamed up with
+	- she has to decide between doing exactly what the antagonist is doing vs letting history go
+- what could you do to fix history vs learning what you can do now; history lets you off the hook for being "done"
