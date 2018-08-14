@@ -97,5 +97,35 @@
 - (see Story Journal 3.3)
 
 ## Act 2
-- Act 2:
-  -
+- Act 1 established setting, characters and challenges
+- Act 2 sees the journey begin
+  - it's "a series of progressive complications"
+  - these are the "because of that..." obstacles
+  - tough decision making
+  - _journey_: the chain of events leading from one to another
+- do not just string events together
+  - character gets beat up a lot
+  - things get harder and harder
+  - focus on character growth (more than other acts)
+  - avoid lengthy event chasing (this act often gets too long)
+- challenges until character reaches fork in the road
+  - will lead to _point of no return_
+  - a moment of realization, for example main character sees value of another
+- _low point_: at end of Act 2, everything is wrong, all is lost
+  - character is failing in attempts
+  - character is succeeding but frustrated
+  - character realizes there is something else needed to succeed
+  - forced into confrontation
+  - this will lead to showing in Act 3 that they've changed permanently
+  - hollow victories make good low points
+- summary
+  - Act 2 follows the inciting incident
+  - Act 2 introduces a series of obstacles
+  - fork in the road at mid point of Act 2
+    - this is the middle of the story
+    - choice with no return
+  - Act 2 usually ends at the low point
+
+## Activity 4
+- identify and create second acts
+- (see Story Journal 3.4)

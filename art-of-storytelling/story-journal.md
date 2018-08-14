@@ -257,9 +257,46 @@ Part B: your own film
 	- our inciting incident is some realization of time traveling backwards
 	- causes are following effects, like a "bless you" before a sneeze
 	- the antagonist is the march of history, but instantiated in someone who knows about it and is using it for personal gain
-
 - the antagonist turns out is doing the same thing, but knows it's erasing history
 - she realizes this and now
 	- with everything she can do with everyone she's teamed up with
 	- she has to decide between doing exactly what the antagonist is doing vs letting history go
 - what could you do to fix history vs learning what you can do now; history lets you off the hook for being "done"
+
+## Activity 3.4: Act 2
+Part A: three favorites
+- choice one
+	- the want/goal at start of Act 2: recurring, but the "prince" wants to satisfy his own coolness desires
+	- point of no return: recurring, but typically around school or family growth decisions
+	- low point: recurring, but typically learning that his own pursuits aren't fulfilling or hurt family
+	- what character learns: responsible ways to grow up without losing himself
+- choice two
+	- the want/goal at start of Act 2: to sail and track down the one who can help restore the island
+	- point of no return: immediate, embarking across the ocean
+	- low point: giving up, feeling unable to complete the journey, tossing the "heart" into the sea
+	- what character learns: how to sail, and (at the end of the act) that she is not alone
+- choice three
+	- the want/goal at start of Act 2: to rid the world of injustice
+	- point of no return: killing an innocent person tracking him
+	- low point: becoming a suspect, getting captured and losing abilities
+	- what character learns: his real goal is thwarting investigators and control
+
+Part B: your own film
+- want: to fix history
+- low point: learning that the antagonist is doing the same thing and it's to their advantage
+- point of no return: getting others in on it and actually changing an event
+- Flesh out the next beats of the story spine
+- Because of that...
+	- she started digging into what was going on
+	- she collected info about events to prove to herself and maybe others
+	- she started to realize how causes and effects worked in this world
+- Because of that...
+	- she was prepared to share and plan to change an event
+	- she needed help to put this into motion
+	- she connected with others and actually shared this was going on, proving it
+- Because of that...
+	- they planned a change
+	- the change worked
+- Because of that...
+	- they came into conflict with the antagonist
+	- they learned the antagonist is doing the same thing
