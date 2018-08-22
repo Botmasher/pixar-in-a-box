@@ -300,3 +300,54 @@ Part B: your own film
 - Because of that...
 	- they came into conflict with the antagonist
 	- they learned the antagonist is doing the same thing
+
+## Activity 3.5: Act 3
+Part A: three favorites
+- choice one
+	- the crisis
+		- recurring, but typically a major family issue/confrontation resulting from the prince's antics
+	- the resolution
+		- recurring, but typically a moment to grow personally and smooth relations
+	- how protagonist showed they learned what they needed
+		- often through a conversation or time/token concession
+	- theme/moral
+		- you can be cool, funny and unique but at some point you have to face life, family and grow
+	- why the character arc was (not) emotionally satisfying
+		- mostly satisfying in a simple make-up-and-say-sorry kind of way, but often ending in conversations and telling instead of showing
+- choice two
+	- the crisis
+		- bringing the special stone to the island and facing off with the lava monster
+	- the resolution
+		- the monster is actually beautiful and helpful, and the world is healed
+	- how protagonist showed they learned what they needed
+		- a final conversation with her grandma and facing her ancestors sailing past her
+	- theme/moral
+		- your journey isn't just about yourself, but connects you to people and places that depend on you
+	- why the character arc was (not) emotionally satisfying
+		- the character still had a sense for adventure but connected to her place and her history
+- choice three
+	- the crisis
+		- a final showdown where the detectives have him cornered but he's still sure he controls life and death
+	- the resolution
+		- the main character, the one using the notebook, is killed
+	- how protagonist showed they learned what they needed
+		- they did not, and instead showed they were unable to look beyond their own self-importance
+	- theme/moral
+		- you cannot selfishly take justice into your own hands and let it go to your head
+	- why the character arc was (not) emotionally satisfying
+		- it was satisfying in the way it handled broad themes and suspense of using the notebook and being investigated and chased
+		- it was unsatisfying in that the main story revolved around an antagonist, that specific character threads were frayed and left untangled, and the best character died
+
+Part B: your own film
+- the crisis
+	- an agonizing decision over whether to try and change history or to accept it and reset time
+- the resolution
+	- the world returns to normal, time moves forward, but the protagonist knows
+- how protagonist shows they learn what they needed
+	- relying on others and making that tough decision to let go of changing the past
+- theme/moral
+	- you live in history, you can make decisions to shift things but you have to face the past as it is
+- why the character arc will (not) be emotionally satisfying
+	- the emotions expected are complex and try to be epic but risk being too pensive
+	- the character risks falling into a forgettable scifi arc
+	- this could be instead a return to a same world that feels more beautiful and optimistic, not taking people around her for granted

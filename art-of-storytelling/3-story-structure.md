@@ -129,3 +129,39 @@
 ## Activity 4
 - identify and create second acts
 - (see Story Journal 3.4)
+
+## Act 3
+- story heading to climax
+  - this is a "final crisis"
+  - moment that matters most
+  - audience at edge of seats
+- Act 1 and 2 had character make "wants"-driven choices
+- now things are caught in a crisis
+  - the character may realize needs
+- _resolution_: afterwards the world calms down
+- "character sacrifices their wants for their needs"
+  - this is realizing the error of their ways
+- character has been tested and proves they have learned
+- "theme" and "moral"
+  - Act 2 saw character learn what's important
+  - now the character fights for what's important
+- it's hard to know how well Act 1 and 2 work until you see all acts together
+  - don't leave the audience unsatisfied
+  - the world's problem should feel fixed
+  - the personal problems should feel resolved
+  - the audience should feel like they've learned something or had a takeaway
+- making the resolution satisfying
+  - it should be emotional
+  - small moments that show what matters, like showing up for someone protagonist realized mattered
+  - symbolism around people, family, emotions
+- surprise endings
+  - unexpected addition of an option or idea to an either/or situation
+  - finding a way to resolve that feels more real and believable than expectations
+- pull it all together
+  - character arcs are complete
+  - clear theme
+  - logical end to story
+
+## Activity 5
+- describe and create third acts
+- (see Story Journal 3.5)
