@@ -165,3 +165,32 @@
 ## Activity 5
 - describe and create third acts
 - (see Story Journal 3.5)
+
+## Advice
+- work backwards from a clear, known ending
+- expose yourself to lots of ideas, especially through reading books
+- watch many films with a focus on animation
+- some films don't focus on narrative but instead ideological feeling
+- make progress from your own life that you're already invested in
+  - what has allowed you to grow?
+- commit to something and finish it
+- understand what doesn't work, raze and rebuild
+- draw your arc on the wall and shape what's happening to your character
+- go have experiences yourself and learn how wide the world really is
+
+## Glossary
+- _external feature_: look or design of a character
+- _Act One_: introduce characters, story and understand where story is going
+- _Act Two_: have main character choose and act while overcoming obstacles towards a goal
+- _Act Three_: have character meet final challenge and resolve the story
+- _antagonist_: force getting in the way of main character's wants and needs
+- _final crisis/climax_: intense test of main character where they may lose what they value
+- _inciting incident_: event leading main character to key obstacle and setting story in motion
+- _low point_: point of greatest apparent loss for main character
+- _moral_: lesson learned by main character by end of story
+- _point of no return_: choice from which main character cannot turn back
+- _resolution_: end of story when world calms and
+- _story beats_: key moments in story
+- _story spine_: patterning tool for developing story beats
+- _structure_: sequential order of events or beats in the story
+- _theme_: central idea connecting events and moral
