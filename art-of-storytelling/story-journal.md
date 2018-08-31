@@ -351,3 +351,22 @@ Part B: your own film
 	- the emotions expected are complex and try to be epic but risk being too pensive
 	- the character risks falling into a forgettable scifi arc
 	- this could be instead a return to a same world that feels more beautiful and optimistic, not taking people around her for granted
+
+## Activity 4.1: Lines
+Part A: what do lines mean in [this frame](https://ka-perseus-images.s3.amazonaws.com/4798680c096a6798fbcb9bf24fb885bd21c49eb1.png)?
+- how they convey emotion and meaning
+	- complex gaze of characters framing the shake
+	- gaze of popin character makes us part of the framing
+	- lines make a portrait within a picture
+	- lines inside the portrait are soft and kind of goofy fun
+	- lines outside clearly frame the shake action
+	- the framing characters especially the long S-curved neck and straight beak  add complication
+	- the scene feels like a happy accomplishment or small celebration
+- primary direction of the lines
+	- dominant horizontal lines with triangle lower left
+	- eye lines lead to within that triangle, including to viewer and back
+
+Part B: a line traveling between two recent feelings
+- instead of attaching artwork I'll try to describe the lines
+- uncertain: light pressure, wiggly, fading to dots, picking up then pulling down
+- to friendly: rolling with higher and lower hills, moderately quick, medium thick
