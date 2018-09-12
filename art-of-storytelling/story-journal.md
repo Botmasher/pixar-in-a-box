@@ -370,3 +370,45 @@ Part B: a line traveling between two recent feelings
 - instead of attaching artwork I'll try to describe the lines
 - uncertain: light pressure, wiggly, fading to dots, picking up then pulling down
 - to friendly: rolling with higher and lower hills, moderately quick, medium thick
+
+## Activity 4.2: Shape
+Part A: shapes from an example frame
+- The left monster is small and round, the right one is taller and boxier, both in head and body. Both monsters have lots of circular facial elements and round props. The wall behind them is recursively squares. On that wall is a shadow with a round head but sharp angles.
+- The shapes build two carable characters with distinct personalities and block out a threatening one in the middle that we can't yet see.
+
+Part B: shapes from frames in three favorites
+- the iconic shot of the prince hailing a cab in front of the Hollywood sign
+	- a circle face and square body lean into the frame dominating the right
+	- the cap contains more circles suggesting fun or approachability
+	- the triangular lean-in and arm show movement but pull back into rounded ends
+	- squares are recursively strong including in patterns but direct into the frame instead of at viewer
+	- the cross-scene with triangular tops blocks out a dominating iconic background
+	- combined with lines and character, triangles in background point to smiling face
+- Seven Samurai shot of archer drawing bow in the rain with swords at feet
+	- the frame is full of clear triangles and some duller square shapes
+	- the archer has a broad rectangle across the chest but forms triangles with bow, arms, legs
+	- even the front face forms a line with the torso
+	- even the squares are at angles with others
+	- the fire at the feet is a triangle
+	- the character on the lower right is more rounded but still triangles
+	- the rain softens shapes but adds straight lines
+	- wow there are a lot of shapes in this scene
+	- many shapes are pointing towards the archer's gaze
+- when the ali'i comes face to face with and reaches out to the lava monster
+	- imposing squares and triangles on left half bracing right but pointing up and left
+	- gentler, smaller circles and triangles on the right side motioning up and left
+	- the entire frame is clearly divided by the line from the angled left square
+	- secondary shapes in the background limit gaze to below the monster's eyeline
+	- circular shapes vaguely connect monster's mouth to the rock and the bottom of monster's eye to inside of wave
+
+Part C: main shape for main characters in your own film
+- the main character has slumped circular shapes with prickly triangular elements in face, hair, hands
+- Their shape implies bookish, uncertain, withdrawn but curious
+- The shape changes over time to become sturdier as character gains knowledge, confidence, friendship
+	- standing up but also in clothing, props, figure
+- Imagine the character alone among the old stacks, head over a desk, with one bulb that casts a shallow circular light on her position
+```
+|				|
+|   o		|
+|	 ---	|
+```

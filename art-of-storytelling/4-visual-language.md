@@ -61,3 +61,30 @@
 - think about line direction, weight, shape, pressure
 - be expressive, not careful
 - (see Story Journal 4.1)
+
+## Shape
+- even primitive shapes convey emotion
+  - triangles have direction, speed, tension
+  - circles are friendly
+  - squares are stable
+- characters may start out as multiple shapes put together
+  - square body but circle head
+  - friendly circle but active triangle for happy but speedy
+- add detail by adding and connecting shapes
+- silhouettes as a good way to get a sense of the emotions conveyed
+- two characters can be opposites: drab square vs colorful circle
+- shape really matters in scene composition
+  - find motion in triangles
+  - find the circular curves
+  - look for rectangles like windows
+- intimidating shape: skinny, thin, tall
+  - look for things it reminds you of (a coffin, )
+- use shapes to block out where viewer should look
+- think of how rounded shapes soften a hero while sharper ones add dynamism
+- boxes may look slow and sturdy but can frame faster, dynamic characters
+
+## Activity 2
+- take time to think more about shape
+- (see Story Journal 4.2)
+
+## 
