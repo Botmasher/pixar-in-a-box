@@ -412,3 +412,34 @@ Part C: main shape for main characters in your own film
 |   o		|
 |	 ---	|
 ```
+
+## Activity 4.3: Space
+Part A:
+how their example image gives the illusion of depth
+- the family of characters is right up front and the rest of the scene is behind them
+- cars and trees get smaller in the distance
+- parking lines angle towards the upper left
+- characters are lower in the frame so we can see buildings and cars
+- the background is slightly out of focus
+- shadow, line and detail differences change between characters and the background
+- characters are round while everything else is linear and pointing to tallest character
+
+how my example image gives the illusion of depth
+- Seven Samurai archer in the rain again
+- the background lines aren't as clear and get lost in the rain
+- it's more about the foreground characters vs background village in the rain
+- there is a sense of immediacy in the space, less expansive or distant
+
+Part B:
+- mark a vanishing point x and draw squares of different sizes
+- me: imagine connecting these figures to the x with lines and getting depth:
+			o 			.
+		0		x
+			.			|-|
+
+Part C: visual depth from your own story
+- take the shape work from the last entry
+- imagine the stacks on the left and right with bolder lines but out of focus
+- the character in the middle is smaller, a bit higher in the frame
+- the character at the desk in the middle is lighter
+- the other lines in the scene point to the character (right now dead center)

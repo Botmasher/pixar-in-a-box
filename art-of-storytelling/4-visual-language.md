@@ -87,4 +87,21 @@
 - take time to think more about shape
 - (see Story Journal 4.2)
 
-## 
+## Space
+- we've already used visual language to talk about space
+- consider vanishing points: how things get closer in the distance
+- linear perspective: vertical lines coming together simulate distance
+  - heavier line weights at the bottom of frame
+  - place elements in frame to support the visuals
+  - combine it with size to simulate even more depth
+- vanishing points help predict how forms look in the distance
+- consider an example of squishing a character in space
+  - place obstacles to make a character stand out as not where they're supposed to be
+  - maybe a main character is struggling with goals
+- aim lines back in depth to force focus even to small-sized characters
+- remove visual cues from the environment to play with space and perspective
+  - be careful because this will show just how much we rely on these cues
+
+## Activity 3
+- consider the illusion of depth and how to draw it
+- (see Story Journal 4.3)
