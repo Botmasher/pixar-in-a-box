@@ -105,3 +105,24 @@
 ## Activity 3
 - consider the illusion of depth and how to draw it
 - (see Story Journal 4.3)
+
+## Motion
+- still images can suggest movement
+- techniques include motion lines and line of action
+- motion lines extend along a pathway to create appearance of movement
+- line of action follows spine and feels out force of the character
+- even when shapes don't normally move (like squares) techniques can make movement
+  - adding triangles can point in a direction
+  - curves can point upwards like in a character's pose
+  - heavy square shapes can anchor down to the ground
+  - diagonals can lean a character especially combined with a line of action
+  - character eyes looking in a direction
+- use contrasts to show that one character moves more than others
+- lines of action can really suggest a lot about a character, like grace
+
+## Activity 4
+- consider movement in a still image and in chosen movies
+- (see Story Journal 4.4)
+
+## Tone
+-

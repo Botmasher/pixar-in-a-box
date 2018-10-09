@@ -443,3 +443,40 @@ Part C: visual depth from your own story
 - the character in the middle is smaller, a bit higher in the frame
 - the character at the desk in the middle is lighter
 - the other lines in the scene point to the character (right now dead center)
+
+## Activity 4.4: Motion
+Part A: two images
+- the first has two cars with strong motion lines from their upper right side
+	- both cars have triangular elements pointing forwards
+	- a sense of aggressive motion in the diagonals and the front car's lean
+	- spoilers angled back to give a strong sense of airflow jetting over them
+	- back car's eyes are trained on the first while the front looks back and side, creating immediate conflict
+- the second has six sketchier ordered rat poses
+	- the rat has a prominent line of action curving around looking at things
+	- even though there are no other elements it's clear the rat is curious and looking around
+	- head and nose are directional
+	- spine and back give a clear indication of stability/pulling back/jutting ahead
+	- lots of squash and stretch help convey everything from scurry to hunker down
+
+Part B: finding motion and action lines
+- an example of lines of motion on an otherwise static figure
+ ||_ - _
+ || - _
+- lines of motion in my three choices
+	- the prince hailing cab, clearly leaning over door and pointing forward
+		- the arc and shape of the main character is directed screen left
+		- no lines of motion added to scene
+	- the ali'i girl facing the final monster
+		- the main character's line of action is small and entirely visible
+		- the arc heads forward but is straight upright
+		- the much larger monster's arc is only partly visible but leans in
+		- motion line hints suggest a clearing away from the monster and the ali'i
+	- the archer samurai drawing a bow in the rain
+		- the line of action is strongly up and leads back stable against the ground
+		- square is stable, triangle upwards, but all action freezes at the arms
+		- the lines convey potential
+
+Part C:
+- draw your character in various poses with lines of action
+- draw an entire movement-heavy scene with your character
+- (return to this exercise with digital pad)
