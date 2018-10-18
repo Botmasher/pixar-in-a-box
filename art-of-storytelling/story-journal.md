@@ -480,3 +480,23 @@ Part C:
 - draw your character in various poses with lines of action
 - draw an entire movement-heavy scene with your character
 - (return to this exercise with digital pad)
+
+## Activity 4.5: Tone
+Part A: high contrast still of chef and rat under streetlight
+- tone directs the viewer's eyes to the two characters' faces
+- contrast clearly outlines the left/center sides of their silhouettes
+- contrast forms a soft, circle-triangle between the two characters and a visible light source
+- there's a feeling of difference, confrontation, a moody late evening confrontation
+- the contrast is high at the edes of that circle
+	- it's backing up a major contrast in size and motion between the two characters
+	- the rat is tiny in the frame but standing tall, the human bending down
+- the contrast is just soft enough to add some warmth to their scene (they don't seem to be enemies)
+
+(return to these exercises with art pad)
+
+Part B:
+- draw 7 boxes shading from light to dark as possible
+
+Part C:
+- add light and dark values to the movement scene from the last exercise
+	- direct the viewers' eyes

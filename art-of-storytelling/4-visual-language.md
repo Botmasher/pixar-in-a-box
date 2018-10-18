@@ -125,4 +125,24 @@
 - (see Story Journal 4.4)
 
 ## Tone
--
+- also called _shading_, changing lightness and darkness
+- light values can feel open, fun while dark values can feel mysterious
+- _contrast_ is the use of "neighboring light and dark values"
+  - low is subdued
+  - high is exciting, dramatic, conflicting
+  - eyes move to the place of highest contrast
+  - play together with perspective to draw eyes to a point
+- pull towards characters by having them against a contrasting background
+  - frame them by having the edges more muddled in tone
+  - if things still feel dark then pull in a light to have tones meet
+  - a rim light might really pull together the lighting and characters
+- tone can focus eyes by using tone as shape
+  - this can "create a stage"
+- gradient can give mood, maybe adding haze
+
+## Activity 5
+- consider tone in a still and draw out some simple shading
+- (see Story Journal 4.5)
+
+## Color
+- 
