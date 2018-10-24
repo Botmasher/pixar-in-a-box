@@ -500,3 +500,33 @@ Part B:
 Part C:
 - add light and dark values to the movement scene from the last exercise
 	- direct the viewers' eyes
+
+## Activity 4.6: Color
+Part A:
+- the image is of an old man sitting on the left of his bed next to an alarm clock
+	- slumped, with eyes closed
+	- the right third of the bed and the right side of the room have sunshine coming from window
+	- dominating the scene center is the bed, with foot behind viewport
+	- sparse but expected props: pillows, painting over bed, two lamps, alarm clock with red digits
+- the color clearly separates a blue left 2/3 vs yellow/orange right 1/3
+- the tint adds to this: dark, desaturated blue vs light yellow-orange
+- these are almost complementary colors
+- the pop of red digits among the blues connects with the orange coming in from the window
+- the emotion is exhaustion in the face of another day
+- the eye moves to the character hunched by the clock and the light coming in from the window
+
+Part B:
+- the prince: colors often add fun and whimsy, and signal who to focus on
+	- mainly come from clothing and indoor environments
+	- the prince dresses with more color than family, paralleling the story
+- the ali'i: the colors feel vivid but natural
+	- scene I've used before: the colors mark a sharp distinction between blue ocean background and earthy/fiery browns, reds, oranges, black in the front
+- the samurai: unsaturated film makes us focus on values
+
+(return to this exercise with art pad)
+- recolor the frames from each of those three to see how colors change scene meaning
+
+Part C:
+(return to these exercises with art pad)
+- compose an image for each beat in your story's story spine
+- use not just color but everything you've learned about visual language

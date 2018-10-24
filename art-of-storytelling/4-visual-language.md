@@ -145,4 +145,55 @@
 - (see Story Journal 4.5)
 
 ## Color
-- 
+- similar to tone in use: emotion, mood
+- direct audience eyes to parts of scene or image
+- color science
+  - it's a whole thing, so they also have [a course for that](https://www.khanacademy.org/partner-content/pixar/color)
+  - similar vs contrasting vs complementary colors on a color wheel
+  - contrasting colors redirect attention
+  - similar colors feel natural together
+- psychology of colors
+  - sky blue for calm relaxation
+  - strong red for alertness
+- imagine using colors for outside warmth vs somber blue inside a room
+- one character's color can strongly power a scene
+- imagine connecting color with a character and then fading that color
+  - this suggests loss that the audience feels
+- storyboarding avoids color except to convey key points
+- remove colors from a character to suggest lifelessness
+  - imagine taking a has-been hero from blue, to desaturated, to renewed red
+
+## Activity 6
+- think about color in a still, your favorites and in your own film idea
+- (see Story Journal 4.6)
+
+## Advice
+- be "strong in your commitment"
+- look at life more than at other artists
+- remember what you've learned, then forget it, stay loose
+  - reapply the ideas to your quick drawing, like adding triangles for movement or squares for stability
+- "experiment and have fun", forgiving mistakes
+- close your eyes, visualize the scene and do a rough and loose drawing
+  - do this fast with a bunch of little squares like a storyboard
+  - if it's wrong, rearrange or redo, keeping it all fast
+- practice and repeat over and over
+- when pitching to a crowd, it's not about you, they want to hear about the work
+  - this to help with timidity when sharing ideas
+  - be encouraging and cultivate encouragement
+
+## Glossary
+- _beat boards_: capture beats and convey story points
+- _color_, including complementary, contrasting and visually similar
+- _composition_: spatial organization of visual elements
+- _contrast_: neighboring dark and light values
+- _line_: distance between points or movement of a point along a path
+  - properties: thickness, direction, length
+- _linear perspective_: positioning lines/objects and tweaking length/size to create visual space or depth
+- _line of action_: imaginary line down character's spine to show force and movement
+- _motion lines_: lines away from an object along its path to show movement
+- _shape_: two-dimensional area of an object enclosing its form
+- _silhouette_: filled outline of an object
+- _story boards_: film frame drawings to visualize the story sequence before animating
+- _tension point_: where light and dark values meet
+- _tone_: lightness and darkness values of scene elements
+- _vanishing point_: where receding parallel lines converge on a horizon
