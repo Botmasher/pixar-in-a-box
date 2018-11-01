@@ -530,3 +530,11 @@ Part C:
 (return to these exercises with art pad)
 - compose an image for each beat in your story's story spine
 - use not just color but everything you've learned about visual language
+
+## Activity 5.1: Major vs Minor Beats
+Part A: Scene/Sequence from 3 favorites
+- What's the major beat it depicts?
+- What are the minor beats (in bullet points)?
+
+Part B: Your story
+- What's the minor beat breakdown of two major beats in your own story spine?
